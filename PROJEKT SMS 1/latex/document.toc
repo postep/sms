@@ -1,0 +1,26 @@
+\babel@toc {polish}{}
+\contentsline {section}{\numberline {1}Tre\IeC {\'s}\IeC {\'c} zadania}{3}
+\contentsline {section}{\numberline {2}Kryteria oceny regulacji}{3}
+\contentsline {section}{\numberline {3}PID}{3}
+\contentsline {subsection}{\numberline {3.1}Om\IeC {\'o}wienie implementacji}{3}
+\contentsline {subsection}{\numberline {3.2}Wyznaczanie parametr\IeC {\'o}w metod\IeC {\k a} Zieglera-Nicholsa}{3}
+\contentsline {subsection}{\numberline {3.3}Wyznaczanie nastaw metod\IeC {\k a} in\IeC {\.z}yniersk\IeC {\k a}}{8}
+\contentsline {subsubsection}{\numberline {3.3.1}Krok 1. - Wyznaczenie $K$}{8}
+\contentsline {subsubsection}{\numberline {3.3.2}Krok 2. - Dob\IeC {\'o}r parametru $T_{I}$}{8}
+\contentsline {subsubsection}{\numberline {3.3.3}Krok 3. - Dob\IeC {\'o}r parametru $T_{D}$}{14}
+\contentsline {subsubsection}{\numberline {3.3.4}Krok 4. - Dostrojenie regulatora}{18}
+\contentsline {subsection}{\numberline {3.4}Por\IeC {\'o}wnanie wynik\IeC {\'o}w}{22}
+\contentsline {subsection}{\numberline {3.5}Anty-windup}{26}
+\contentsline {section}{\numberline {4}Algorytm DMC}{31}
+\contentsline {subsection}{\numberline {4.1}Om\IeC {\'o}wienie implementacji}{31}
+\contentsline {subsection}{\numberline {4.2}Wyznaczanie horyzontu predykcji}{33}
+\contentsline {subsection}{\numberline {4.3}Wyznaczenie horyzontu sterowania}{38}
+\contentsline {subsection}{\numberline {4.4}Wyznaczanie parametru $\lambda $}{43}
+\contentsline {section}{\numberline {5}Por\IeC {\'o}wnanie najlepszej realizacji algorytmu PID i DMC}{49}
+\contentsline {subsection}{\numberline {5.1}Odporno\IeC {\'s}\IeC {\'c} na zak\IeC {\l }\IeC {\'o}cenia}{49}
+\contentsline {subsection}{\numberline {5.2}Przesterowanie}{52}
+\contentsline {subsection}{\numberline {5.3}Czas ustalenia}{54}
+\contentsline {subsection}{\numberline {5.4}Oscylacje}{55}
+\contentsline {section}{\numberline {6}Wnioski}{57}
+\contentsline {subsection}{\numberline {6.1}Wnioski z por\IeC {\'o}wnania algorytm\IeC {\'o}w}{57}
+\contentsline {subsection}{\numberline {6.2}Wnioski og\IeC {\'o}lne}{57}
